@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../desenvolvimento/manutencao/dio.awrsmod.des.iml" filepath="$PROJECT_DIR$/../desenvolvimento/manutencao/dio.awrsmod.des.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../desenvolvimento/manutencao/dio.awrsmod.util.iml" filepath="$PROJECT_DIR$/../desenvolvimento/manutencao/dio.awrsmod.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../desenvolvimento/manutencao/java-modular.iml" filepath="$PROJECT_DIR$/../desenvolvimento/manutencao/java-modular.iml" />
+    </modules>
+  </component>
+</project>
